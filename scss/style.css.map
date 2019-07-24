@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "AEAA,AAAA,EAAE,CAAA;EACE,KAAK,EDUmB,OAAkB;CCT7C",
+    "sources": [
+        "style.scss",
+        "Partials/_variables.scss",
+        "Partials/_main-styles.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
